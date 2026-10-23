@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Satellite_Library_") (type "KiCad") (uri "${KIPRJMOD}/Satellite_Library_.kicad_sym") (options "") (descr ""))
+)
