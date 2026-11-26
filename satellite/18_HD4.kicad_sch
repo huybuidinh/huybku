@@ -1,0 +1,100 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "bbb7eacc-708f-4723-bf33-1c67669485bf")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 36.83 38.1)
+		(size 30.48 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "16488b42-8ced-4bef-9f9b-d52ab94a40b3")
+		(property "Sheetname" "PUMP"
+			(at 36.83 37.3884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PUMP.kicad_sch"
+			(at 36.83 52.6546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/cc84e823-e0fb-40b9-9557-db5e8aaa0e3e"
+					(page "29")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 85.09 36.83)
+		(size 33.02 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "8739abae-da03-4e29-8dd6-8146427b215f")
+		(property "Sheetname" "PUMP2"
+			(at 85.09 36.1184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PUMP2.kicad_sch"
+			(at 85.09 53.9246 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/cc84e823-e0fb-40b9-9557-db5e8aaa0e3e"
+					(page "30")
+				)
+			)
+		)
+	)
+)

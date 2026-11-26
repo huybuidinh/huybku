@@ -1,0 +1,242 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "856398c8-9b60-4747-ad6a-049b5256c874")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 165.1 26.67)
+		(size 59.69 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 255 0 1)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "0dd8fc21-0abd-4b38-b3d2-ac2dafe3b0eb")
+		(property "Sheetname" "06_POWER_3"
+			(at 165.1 25.9584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "06_POWER_3.kicad_sch"
+			(at 165.1 59.0046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/7b33d69f-4245-41b3-8246-286893d47c88"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 90.17 26.67)
+		(size 59.69 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 255 0 1)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "1bb8befe-eb72-476f-9d1d-02a091fdb061")
+		(property "Sheetname" "06_POWER_2"
+			(at 90.17 25.9584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "06_POWER_2.kicad_sch"
+			(at 90.17 59.0046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/7b33d69f-4245-41b3-8246-286893d47c88"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 26.67)
+		(size 59.69 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 255 0 1)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "43b108a7-2ca2-432e-a2c0-d49496236c0f")
+		(property "Sheetname" "06_POWER_4"
+			(at 241.3 25.9584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "06_POWER_4.kicad_sch"
+			(at 241.3 59.0046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/7b33d69f-4245-41b3-8246-286893d47c88"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 25.4)
+		(size 52.07 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "b622fe98-75cc-404f-a9de-e5141cb12bd6")
+		(property "Sheetname" "06_POWER_1"
+			(at 24.13 24.6884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "06_POWER_1.kicad_sch"
+			(at 24.13 59.0046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/7b33d69f-4245-41b3-8246-286893d47c88"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 318.77 26.67)
+		(size 59.69 31.75)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+			(color 255 255 0 1)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "c936a4ce-e8e6-4881-81dc-3c9f8587bd2f")
+		(property "Sheetname" "06_POWER_5"
+			(at 318.77 25.9584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "06_POWER_5.kicad_sch"
+			(at 318.77 59.0046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/7b33d69f-4245-41b3-8246-286893d47c88"
+					(page "10")
+				)
+			)
+		)
+	)
+)

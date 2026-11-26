@@ -1,0 +1,238 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "2e6e4da3-86f5-4ff5-824c-b6e94f68cc5e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 29.21 52.07)
+		(size 36.83 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "368fe64a-42f4-417a-9d76-d937c0529846")
+		(property "Sheetname" "MPU"
+			(at 29.21 51.3584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MPU.kicad_sch"
+			(at 29.21 69.1646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/f416b194-6949-469c-bbc7-26aa54d9a8b2"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 76.2 52.07)
+		(size 40.64 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "4d38936a-429d-4ca9-9bcc-c84242ef38eb")
+		(property "Sheetname" "PMIC"
+			(at 76.2 51.3584 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PMIC.kicad_sch"
+			(at 76.2 69.1646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/f416b194-6949-469c-bbc7-26aa54d9a8b2"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 29.21 87.63)
+		(size 36.83 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "7e9ba5c5-5f22-4bb1-be7b-ec40daef084d")
+		(property "Sheetname" "08_SOM_USB_CARD"
+			(at 29.21 86.9184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "08_SOM_USB_CARD.kicad_sch"
+			(at 29.21 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/f416b194-6949-469c-bbc7-26aa54d9a8b2"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 133.35 53.34)
+		(size 39.37 16.51)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "929b23fd-4c02-4c23-b09a-7cb255e1230c")
+		(property "Sheetname" "PIO"
+			(at 133.35 52.6284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PIO.kicad_sch"
+			(at 133.35 70.4346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/f416b194-6949-469c-bbc7-26aa54d9a8b2"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 53.34)
+		(size 41.91 17.78)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 0 1)
+		)
+		(uuid "a4e6d4f3-0023-43c1-9f0f-7349ce865063")
+		(property "Sheetname" "DDR3"
+			(at 187.96 52.6284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "DDR3.kicad_sch"
+			(at 187.96 71.7046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/f416b194-6949-469c-bbc7-26aa54d9a8b2"
+					(page "16")
+				)
+			)
+		)
+	)
+)

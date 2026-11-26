@@ -1,0 +1,100 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "ef88b52c-1e3c-4f97-b5db-6afe975dbf78")
+	(paper "A3")
+	(lib_symbols)
+	(sheet
+		(at 130.81 83.82)
+		(size 52.07 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "52179bc5-9de0-451c-89c7-7e3643bdb6fa")
+		(property "Sheetname" "CONNECTOR_OUT"
+			(at 130.81 83.1084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "05_CONNECTOR_OUT.kicad_sch"
+			(at 130.81 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/fb45a8e8-5bf2-43d5-a6f0-0f8982be4be9"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 66.04 83.82)
+		(size 48.26 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "62881bf2-8fdf-4f99-8ed8-fb6bbb70ae09")
+		(property "Sheetname" "CONNECTOR_IN"
+			(at 66.04 83.1084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CONNECTOR_IN.kicad_sch"
+			(at 66.04 108.5346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "satellite"
+				(path "/56e08323-bf08-45e2-8db8-4b0d895048f8/fb45a8e8-5bf2-43d5-a6f0-0f8982be4be9"
+					(page "4")
+				)
+			)
+		)
+	)
+)
